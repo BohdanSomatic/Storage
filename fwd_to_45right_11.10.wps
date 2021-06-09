@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<timestamp>1605100021</timestamp>
+<trajectory>
+    <points>
+        <point>
+            <time>0.00000000</time>
+            <arm_state>-3.0569 0.146229 -3.23582 2.48433 -0.167095 2.65181 0.71448 </arm_state>
+            <pose>0.00000000 0.00000000 0.00000000 1.00000000 0.00000000 0.00000000 0.00000000</pose>
+            <tool_type>1</tool_type>
+            <chem_on>0</chem_on>
+            <water_on>0</water_on>
+            <blower_on>0</blower_on>
+            <vacuum_on>0</vacuum_on>
+            <cartesian>0</cartesian>
+        </point>
+        <point>
+            <time>2.62370393</time>
+            <arm_state>-3.7009 0.146229 -3.23582 2.48433 -0.167095 2.65181 0.71448 </arm_state>
+            <pose>0.00000000 0.00000000 0.00000000 1.00000000 0.00000000 0.00000000 0.00000000</pose>
+            <tool_type>1</tool_type>
+            <chem_on>0</chem_on>
+            <water_on>0</water_on>
+            <blower_on>0</blower_on>
+            <vacuum_on>0</vacuum_on>
+            <cartesian>0</cartesian>
+        </point>
+        <point>
+            <time>5.22293956</time>
+            <arm_state>-3.65029 0.185408 -3.41061 1.35807 -0.0185139 1.43679 0.715371 </arm_state>
+            <pose>0.00000000 0.00000000 0.00000000 1.00000000 0.00000000 0.00000000 0.00000000</pose>
+            <tool_type>1</tool_type>
+            <chem_on>0</chem_on>
+            <water_on>0</water_on>
+            <blower_on>0</blower_on>
+            <vacuum_on>0</vacuum_on>
+            <cartesian>0</cartesian>
+        </point>
+        <point>
+            <time>7.07379057</time>
+            <arm_state>-3.62807 -0.182108 -3.35863 0.557325 0.158363 0.0277935 0.667471 </arm_state>
+            <pose>0.00000000 0.00000000 0.00000000 1.00000000 0.00000000 0.00000000 0.00000000</pose>
+            <tool_type>1</tool_type>
+            <chem_on>0</chem_on>
+            <water_on>0</water_on>
+            <blower_on>0</blower_on>
+            <vacuum_on>0</vacuum_on>
+            <cartesian>0</cartesian>
+        </point>
+        <point>
+            <time>8.77458426</time>
+            <arm_state>-3.84151 -0.640927 -3.24669 0.462432 -0.122433 -0.790223 0.86928 </arm_state>
+            <pose>0.00000000 0.00000000 0.00000000 1.00000000 0.00000000 0.00000000 0.00000000</pose>
+            <tool_type>1</tool_type>
+            <chem_on>0</chem_on>
+            <water_on>0</water_on>
+            <blower_on>0</blower_on>
+            <vacuum_on>0</vacuum_on>
+            <cartesian>0</cartesian>
+        </point>
+        <point>
+            <time>10.11020351</time>
+            <arm_state>-3.94569 -0.997092 -3.25568 0.564465 -0.191414 -1.15733 0.818806 </arm_state>
+            <pose>0.00000000 0.00000000 0.00000000 1.00000000 0.00000000 0.00000000 0.00000000</pose>
+            <tool_type>1</tool_type>
+            <chem_on>0</chem_on>
+            <water_on>0</water_on>
+            <blower_on>0</blower_on>
+            <vacuum_on>0</vacuum_on>
+            <cartesian>0</cartesian>
+        </point>
+    </points>
+</trajectory>
